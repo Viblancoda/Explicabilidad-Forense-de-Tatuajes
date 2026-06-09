@@ -1,0 +1,1002 @@
+[
+  {
+    "filename": "1011255694_9062554e64_jpg.rf.f1585f89fd6e70252ab844f7c723bcbd.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/1011255694_9062554e64_jpg.rf.f1585f89fd6e70252ab844f7c723bcbd.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's upper arm, specifically the shoulder and upper part of the arm. The visible body region is covered by a black sleeve, and the person is wearing a white undershirt. The tattoo on the shoulder is of a fierce, demonic figure with large, expressive eyes, a wide, menacing grin, and a flowing beard. The design includes intricate details such as curls and flowing lines, giving it a dramatic and somewhat menacing appearance. The background is blurred, focusing attention on the tattoo.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the shoulder.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be colored.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"fantasy/creature.\"",
+      "tattoo_motif_description": "The visible tattoo motif on the person's arm appears to be a detailed, dark-colored design that resembles a fierce, demonic figure with sharp teeth and a flowing beard. The design is intricate and has a somewhat menacing appearance.",
+      "contains_text": "uncertain",
+      "text_content": "uncertain",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "101608_jpg.rf.2c2da41eb3d46d262850dad7c8513435.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/101608_jpg.rf.2c2da41eb3d46d262850dad7c8513435.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's arm with a tattoo of a cross. The cross has a detailed design with multiple points and is positioned on the inner forearm. The person is wearing a gray t-shirt and dark pants. The background includes a wooden wall and a black leather bag on the floor. The scene appears to be indoors, possibly in a room with a carpeted floor.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the forearm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif on the person's arm is a cross.",
+      "tattoo_motif_description": "The tattoo on the person's arm is a cross with a crossbar.",
+      "contains_text": "uncertain",
+      "text_content": "cross",
+      "visual_complexity": "The tattoo on the person's arm is complex.",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "102009_jpg.rf.7ccf1c020788d862eef4dba2fea28b59.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/102009_jpg.rf.7ccf1c020788d862eef4dba2fea28b59.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo of a stylized figure on the upper chest area of a person. The figure appears to be a clown or a similar character wearing a top hat and holding a cane. The tattoo is in black ink and is located on the left side of the chest, just below the collarbone. The background of the image is a plain, light-colored wall.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the chest.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is uncertain. It appears to be a simple symbol or a complex illustration, but without more context or a clearer view, it is difficult to determine the exact style.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"abstract.\"",
+      "tattoo_motif_description": "The tattoo on the person's chest appears to be a stylized, possibly mythical or fantastical figure wearing a hat and holding a staff or wand. The design is somewhat abstract and could be interpreted in various ways, but it does not resemble any recognizable historical or cultural figures.",
+      "contains_text": "No",
+      "text_content": "uncertain",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "102719_jpg.rf.80957f5b3e958b62521b57af7678aa4e.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/102719_jpg.rf.80957f5b3e958b62521b57af7678aa4e.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's upper arm, specifically the shoulder and upper part of the arm. The tattoo on the arm depicts an angelic figure with wings spread wide, holding a halo above their head. The angel is dressed in a flowing robe, and the tattoo appears to be in a monochromatic style, possibly black ink. The background of the image is a plain, light-colored wall, and there is a Samsung box visible in the lower right corner.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the shoulder.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is:\n\n- **Uncertain**\n\nThe tattoo appears to be a combination of line art and shading, which makes it difficult to definitively categorize it as one style over another.",
+      "tattoo_category": "The main type of tattoo motif on the person's arm is a person/face.",
+      "tattoo_motif_description": "The visible tattoo motif on the person's arm is of an angel with wings, standing on a cloud. The angel is depicted in a traditional religious style, with wings spread wide and a halo around its head. The tattoo appears to be in a blue and white color scheme.",
+      "contains_text": "uncertain",
+      "text_content": "uncertain",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "102_1_b2_JPG_jpg.rf.4846679b7ac5025ace278410953b3026.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/102_1_b2_JPG_jpg.rf.4846679b7ac5025ace278410953b3026.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo of an owl on a person's arm. The owl is depicted with a detailed and realistic style, featuring its characteristic features such as large eyes, a pointed beak, and a textured body. The tattoo is partially visible, with the owl's head and upper body being more prominent. The background appears to be a medical or surgical setting, indicated by the presence of a bandage or dressing.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as the owl has a mix of black and gray shades.",
+      "tattoo_style": "The visual style of the tattoo is uncertain. It appears to be a combination of different elements, including line art, shading, and possibly some realistic elements.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"animal.\"",
+      "tattoo_motif_description": "The visible tattoo motif is of an owl with a hat on its head.",
+      "contains_text": "No",
+      "text_content": "none",
+      "visual_complexity": "uncertain",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "102_1_c1_JPG_jpg.rf.83dba0d8fcc625482e943df8a48675e0.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/102_1_c1_JPG_jpg.rf.83dba0d8fcc625482e943df8a48675e0.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo of an owl on a person's arm. The owl is depicted with a detailed and realistic style, featuring a mix of brown, black, and green colors. The tattoo is partially covered by a piece of plastic, which is likely used to protect the tattoo during the tattooing process. The background appears to be a table or surface with some items wrapped in plastic.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as the owl's feathers and eyes are depicted in shades of brown, black, and yellow.",
+      "tattoo_style": "The visual style of the tattoo is realistic.",
+      "tattoo_category": "The main type of tattoo motif in the image is an animal.",
+      "tattoo_motif_description": "The visible tattoo motif is an owl.",
+      "contains_text": "No",
+      "text_content": "none",
+      "visual_complexity": "The tattoo is complex.",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "103_1_JPG_jpg.rf.96a95ccaa8072aba5c6769fb7d4433bd.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/103_1_JPG_jpg.rf.96a95ccaa8072aba5c6769fb7d4433bd.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo of a woman's face on a person's arm. The tattoo is done in a black and white style, with intricate details and shading to create a realistic appearance. The woman has long hair and is wearing a headpiece, possibly a crown or a headdress. The background of the tattoo includes a flowing, flowing design that adds to the overall aesthetic. The person is wearing a blue shirt and a white glove on their hand, which is visible in the foreground of the image. The floor has a checkered pattern with alternating black and white squares.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the forearm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is shaded.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"abstract.\"",
+      "tattoo_motif_description": "The tattoo on the person's arm depicts a woman with long hair, wearing a headpiece or hat. The design is detailed and appears to be a stylized portrait.",
+      "contains_text": "No",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "103_1_ar4_JPG_jpg.rf.d86109988564adf145747b5816a1e85b.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/103_1_ar4_JPG_jpg.rf.d86109988564adf145747b5816a1e85b.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo on a person's arm. The tattoo features a detailed black and white illustration of a woman's face. She has long, flowing hair and is wearing a headpiece. The background of the tattoo includes a flowing ribbon or scarf. The person is wearing a blue shirt and is sitting on a checkered floor, which has alternating black and white squares. The overall scene suggests a casual, possibly tattoo-themed environment.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is line-art.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"abstract.\"",
+      "tattoo_motif_description": "The tattoo on the person's arm depicts a woman with long hair, wearing a headpiece or hat. The design is detailed and appears to be a stylized portrait.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "105844_jpg.rf.497ee02692069b878f0d2d14148cc378.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/105844_jpg.rf.497ee02692069b878f0d2d14148cc378.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo on a person's upper torso. The tattoo features a cartoonish, anthropomorphic cat character with exaggerated features. The cat has a large, round head with large, expressive eyes and a small, round nose. It has a long, pointed tail with a feather at the end. The cat is depicted in a dynamic pose, with one paw raised as if it is running or jumping. The cat's body is depicted in a cartoonish style with exaggerated muscles and a small, round belly. The tattoo is located on the person's ribcage area.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the abdomen.",
+      "tattoo_size": "large",
+      "tattoo_color": "The tattoo appears to be colored.",
+      "tattoo_style": "The visual style of the tattoo is uncertain. It appears to be a combination of line art and shading, but the specific details and shading techniques are not clear enough to definitively classify it as line art, filled/solid, shaded, realistic, text-only, simple symbol, complex illustration, or uncertain.",
+      "tattoo_category": "animal",
+      "tattoo_motif_description": "The tattoo on the person's ribcage features a cartoonish, anthropomorphic cat character with a long tail and a small, round head. The cat appears to be holding a staff or wand in its right paw. The tattoo is black and appears to be a traditional tattoo style.",
+      "contains_text": "uncertain",
+      "text_content": "19/06/2016 02:20 PM",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "107_1_b2_jpg.rf.24ed675e11238394cbdeb296b43b2b03.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/107_1_b2_jpg.rf.24ed675e11238394cbdeb296b43b2b03.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo of a woman with a strong, determined expression. She is wearing a red headband and is depicted in a pose that suggests she is lifting something with her right arm. The tattoo is on the upper arm, and there is another tattoo visible on the lower arm, which appears to be a heart shape. The background of the image is blurred, and there is a hint of a room with a window and some furniture.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "2",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be colored.",
+      "tattoo_style": "The visual style of the tattoo is uncertain. It appears to be a combination of line art and shading, but the details are not clear enough to definitively classify it as one style over another.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"person/face.\"",
+      "tattoo_motif_description": "The visible tattoo motif is of a woman with a red ribbon in her hair, holding a clenched fist in front of her chest.",
+      "contains_text": "No",
+      "text_content": "Rosie the Riveter",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "107_1_r4_jpg.rf.92cbe569b96ca9fecb73320d7c237bc0.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/107_1_r4_jpg.rf.92cbe569b96ca9fecb73320d7c237bc0.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo of a woman with long, dark hair tied back in a bun. She is depicted in a relaxed, contemplative pose, with her head resting on her hand. The tattoo is done in a black and gray style, giving it a vintage or classic appearance. The woman is wearing a sleeveless top. The tattoo is on a person's arm, and there are other tattoos visible on the same arm, including a heart shape. The background appears to be indoors, with a window and some furniture visible.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "3",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be colored.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"abstract.\"",
+      "tattoo_motif_description": "The visible tattoo motif appears to be a stylized, artistic representation of a woman with a bandana or scarf tied around her head. The design is detailed and appears to be a tattoo on someone's arm.",
+      "contains_text": "No",
+      "text_content": "uncertain",
+      "visual_complexity": "The tattoo is complex.",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "10873_jpg.rf.9e4552f69d464ee32a1f43d8a3aad673.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/10873_jpg.rf.9e4552f69d464ee32a1f43d8a3aad673.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo on a person's upper arm. The tattoo features a detailed design that appears to be a combination of a crab and a house. The crab is depicted with intricate details, including claws and a shell, while the house is represented by a simple, rectangular structure with a roof and windows. The overall design is intricate and has a somewhat gothic or fantasy aesthetic.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the shoulder.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"animal.\"",
+      "tattoo_motif_description": "The visible tattoo motif appears to be a detailed, intricate design that resembles a crab or a similar marine creature. The design includes intricate lines and shading, giving it a three-dimensional appearance. The crab has a detailed shell and claws, and there are branches or leaves surrounding the design, adding to the overall complexity of the tattoo.",
+      "contains_text": "No",
+      "text_content": "uncertain",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "109318_jpg.rf.e5ac90bedf96a86346dea9ee58467528.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/109318_jpg.rf.e5ac90bedf96a86346dea9ee58467528.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's leg, specifically the calf area. The leg is adorned with a tattoo of a cobra, which is a common symbol in many cultures, often representing wisdom, power, and the ability to control one's environment. The tattoo is done in a realistic style, with the cobra's scales and eyes clearly visible. The person is wearing blue jeans and a red sock, and the tattoo appears to be in the process of healing, as indicated by the small, red, and slightly raised area around the tattoo. The background is a plain, light-colored wall.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The visible tattoo on the leg is located on the leg.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"animal.\"",
+      "tattoo_motif_description": "The visible tattoo motif on the leg is a snake, specifically a cobra.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "1093885445_4962fc3fe4_jpg.rf.4084fec5525915449b1c3a1c58926398.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/1093885445_4962fc3fe4_jpg.rf.4084fec5525915449b1c3a1c58926398.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image depicts a tattoo on the upper back. The tattoo features a stylized, tribal-like design with intricate patterns and shapes. The design includes a central figure that resembles a dragon or a mythical creature with a muscular body and sharp, angular features. The dragon is surrounded by swirling, flowing lines and patterns, giving it a dynamic and somewhat menacing appearance. The overall style of the tattoo is bold and vibrant, with a mix of dark and light colors that create a striking visual effect.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the shoulder.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as it is described as having \"colored\" and \"black/gray\" elements.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"abstract.\"",
+      "tattoo_motif_description": "The visible tattoo motif appears to be a stylized, tribal-like design featuring a dragon or mythical creature. The design includes swirling patterns and possibly some elements that resemble scales or scales. The overall style is intricate and detailed, with a focus on the dragon's head and body.",
+      "contains_text": "No",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "1094262579_2632d6d8c2_jpg.rf.a45e2846a5549aea790797642011c09c.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/1094262579_2632d6d8c2_jpg.rf.a45e2846a5549aea790797642011c09c.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's upper arm, which is adorned with a colorful tattoo of a lizard. The lizard is depicted in a dynamic pose, with its body and limbs clearly visible. The tattoo features a mix of green, yellow, and orange hues, giving it a vibrant and lively appearance. The person is wearing a striped shirt with blue, red, and yellow stripes, and the tattoo is situated on the upper arm, just below the shoulder. The background includes a kitchen setting with a white tiled backsplash and a black chair.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the shoulder.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as the lizard is depicted in various shades of green, yellow, and orange.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"animal.\"",
+      "tattoo_motif_description": "The visible tattoo motif is of a colorful lizard or gecko with green and yellow stripes.",
+      "contains_text": "uncertain",
+      "text_content": "fragile",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "1094282721_139792966c_jpg.rf.920cc7cf9234a33fb0eaee1cf7446257.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/1094282721_139792966c_jpg.rf.920cc7cf9234a33fb0eaee1cf7446257.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image depicts a tattoo of a pit bull dog's face. The dog has a black and white color scheme, with the fur appearing in shades of black and white. The tattoo is detailed, capturing the dog's facial features, including its ears, eyes, nose, and mouth. The dog is wearing a collar with a leather strap and a metal buckle. The tattoo is placed on a person's back, and the background is a light-colored skin tone.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the back.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is realistic.",
+      "tattoo_category": "animal",
+      "tattoo_motif_description": "The tattoo features a detailed portrait of a pit bull dog. The dog is wearing a collar with a visible tag. The design is realistic, capturing the dog's facial features and fur texture.",
+      "contains_text": "No",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "1095024602_20919049ac_jpg.rf.1d188def1837e6c5450f4ea1c35f18bb.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/1095024602_20919049ac_jpg.rf.1d188def1837e6c5450f4ea1c35f18bb.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image depicts a tattoo of a demonic figure with horns and a skull-like face. The figure has a menacing expression, with wide eyes and a wide, open mouth showing sharp teeth. The tattoo is detailed, with shading and shading techniques to give it a three-dimensional appearance. Surrounding the figure are several smaller skulls, adding to the overall eerie and ominous theme of the tattoo. The tattoo is prominently displayed on the back, covering a significant portion of the upper back area.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the back.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is shaded.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"fantasy/creature.\"",
+      "tattoo_motif_description": "The visible tattoo motif is a detailed black and white illustration of a devilish figure with horns, a skull-like face, and multiple skulls surrounding it. The overall design is quite intricate and has a gothic or dark theme.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "1095201316_61667cb508_jpg.rf.41677a9beef2e5b799daf0e05ee40e62.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/1095201316_61667cb508_jpg.rf.41677a9beef2e5b799daf0e05ee40e62.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person with a sleeve tattoo on their upper arm. The tattoo features various marine life and underwater scenes, including fish, coral, and seahorses. The left side of the tattoo shows a detailed depiction of a fish and coral, while the right side features a more abstract design with a fish and seahorses. The person is wearing a white sleeveless shirt and dark pants.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "2",
+      "tattoo_location": "The visible tattoo on the arm is located on the forearm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"abstract.\"",
+      "tattoo_motif_description": "The visible tattoo motifs on the arm include:\n\n1. A large, colorful fish with a blue body and orange fins.\n2. A seahorse with a red and orange body.\n3. A coral reef with various types of coral and sea anemones.\n4. A large, detailed eye with intricate details.\n5. A snake with a yellow and black pattern.\n6. A small, red fish with a white belly.\n7. A small, red fish with a white belly.\n8. A small, red fish with a white belly.\n9. A small, red fish with a",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "109637_jpg.rf.80fa1c0cda2832fd6c75923df3784b54.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/109637_jpg.rf.80fa1c0cda2832fd6c75923df3784b54.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's upper arm, with a tattoo of a green snake coiled around a tree trunk. The tattoo is detailed and appears to be of high quality, with vibrant colors and intricate details. The person is wearing a red sleeveless shirt with a graphic design on the front. The background is dark, and the photo is taken in a dimly lit environment, possibly indoors. The date and time stamp in the bottom right corner of the image reads \"06.07.2015 16:48.\"",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "large",
+      "tattoo_color": "The tattoo appears to contain visible colors.",
+      "tattoo_style": "The visual style of the tattoo is filled/solid.",
+      "tattoo_category": "animal",
+      "tattoo_motif_description": "The tattoo on the person's arm depicts a green snake coiled around a tree trunk.",
+      "contains_text": "uncertain",
+      "text_content": "06.07.2015 16:48",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "10_1_i2_JPG_jpg.rf.b9b3b01d012c1bdaddb79f8abc2b103c.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/10_1_i2_JPG_jpg.rf.b9b3b01d012c1bdaddb79f8abc2b103c.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's arm with a tattoo. The tattoo features intricate designs, including geometric patterns and possibly some traditional or cultural motifs. The person is wearing a patterned garment, possibly a shirt or a piece of clothing, with a design that includes anchors and other symbols. The tattoo is on the forearm, and the person is seated on a chair or a bed. The background includes some plastic bags and a piece of furniture. The scene appears to be indoors, possibly in a medical or hospital setting.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "2",
+      "tattoo_location": "The tattoo is located on the forearm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo appears to be filled/solid. The design is dark and filled with intricate patterns, which is characteristic of filled/solid tattoo styles.",
+      "tattoo_category": "The main type of tattoo motif on the arm is geometric.",
+      "tattoo_motif_description": "The visible tattoo motif on the person's arm appears to be a combination of geometric and tribal designs. The tattoo includes a hexagonal pattern, a star-like design, and various geometric shapes. The overall design is intricate and has a tribal aesthetic.",
+      "contains_text": "No",
+      "text_content": "none",
+      "visual_complexity": "The tattoo on the person's arm appears to be complex.",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "10_2_r1_JPG_jpg.rf.a49b86d1c8d0159ea730c2c6396831a5.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/10_2_r1_JPG_jpg.rf.a49b86d1c8d0159ea730c2c6396831a5.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's arm with a tattoo. The tattoo features a geometric design with black lines and shapes, including intersecting lines and patterns. The arm is partially visible, with the person's hand holding the tattooed area. The background includes a patterned fabric and some plastic wrap.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "2",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo appears to be complex illustration. The intricate patterns and designs suggest a more detailed and artistic approach to the tattoo.",
+      "tattoo_category": "The main type of tattoo motif in the image is geometric.",
+      "tattoo_motif_description": "The visible tattoo motif on the person's arm features a geometric design with black and white patterns. The design includes intersecting lines and shapes that create a complex and intricate pattern.",
+      "contains_text": "No",
+      "text_content": "none",
+      "visual_complexity": "The tattoo on the person's arm appears to be complex.",
+      "confidence": "Based on the image, it is difficult to accurately assess the confidence level in the tattoo assessment. The tattoo appears to be well-pained and the person seems to be in control of the situation. However, without more context or a professional opinion, it is not possible to determine the confidence level."
+    }
+  },
+  {
+    "filename": "110_1_ar4_JPG_jpg.rf.daaff31a2509037c35c9fb76479e6a10.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/110_1_ar4_JPG_jpg.rf.daaff31a2509037c35c9fb76479e6a10.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's leg with a tattoo of a blue demon face with yellow eyes and a red flower in its mouth. The tattoo is detailed and appears to be in progress, with various colors and shading. The person is wearing gloves, and there are some tools and materials on a table in the background. The scene suggests a tattooing or body art session.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the leg.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"animal.\"",
+      "tattoo_motif_description": "The visible tattoo motif on the person's leg features a blue demon face with yellow eyes and a fierce expression, accompanied by red flowers.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "The tattoo is complex.",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "11154_jpg.rf.d08e38045eaff75d19b68778b45edf23.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/11154_jpg.rf.d08e38045eaff75d19b68778b45edf23.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's leg with a tattoo of a cobra. The cobra is depicted in a stylized, somewhat abstract manner, with its head and body outlined in black and the snake's scales rendered in a lighter shade of gray. The person is wearing dark-colored athletic shoes with white stripes and a dark sock. The background appears to be an indoor setting with a tiled floor.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the leg.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif on the leg is an abstract design.",
+      "tattoo_motif_description": "The visible tattoo motif on the leg appears to be a snake with a human face.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "113_1_a3_JPG_jpg.rf.025372152e01ac93974d252905fe825e.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/113_1_a3_JPG_jpg.rf.025372152e01ac93974d252905fe825e.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image depicts a tattoo on a person's arm. The tattoo features a detailed portrait of a child with a cheerful expression, including the child's eyes, nose, and mouth. The child is wearing a white garment, and the tattoo includes the name \"Angelo\" written in cursive script below the child's face. The background of the tattoo is black, and the overall style is realistic with shading and detail to give it a three-dimensional appearance. The tattoo is located on the person's inner arm, and the arm is partially visible in the image.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is realistic.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"person/face.\"",
+      "tattoo_motif_description": "The visible tattoo motif is a portrait of a baby with the name \"Angelo\" written below it.",
+      "contains_text": "Yes",
+      "text_content": "Angelo",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "114793_jpg.rf.ee2179e9952e0ae25b62d5278c86aed8.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/114793_jpg.rf.ee2179e9952e0ae25b62d5278c86aed8.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's upper arm, which is partially visible. The arm is positioned in a way that the shoulder and upper arm are in the foreground, while the lower arm and hand are in the background. The person is not fully visible, as only the upper arm and shoulder are shown. On the person's upper arm, there is a tattoo of a horse's head. The tattoo appears to be in black ink and is located on the upper part of the arm, just below the shoulder. The skin around the tattoo shows some minor irritation or redness, indicating that the tattoo might be",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The visible tattoo is located on the shoulder.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be colored.",
+      "tattoo_style": "The tattoo appears to be a simple symbol or a complex illustration, as it does not resemble a line-art, filled/solid, shaded, realistic, text-only, or complex illustration style. It also does not appear to be a simple symbol or a complex illustration. Therefore, the most appropriate choice is:\n\nuncertain",
+      "tattoo_category": "The main type of tattoo motif in the image is \"animal.\"",
+      "tattoo_motif_description": "The visible tattoo on the person's arm appears to be a stylized, abstract design of a horse's head and mane.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "Based on the image, it is difficult to accurately assess the confidence level in the tattoo assessment. The tattoo appears to be a simple design and is not particularly prominent. However, the person's confidence in their tattoo might be subjective and not easily quantifiable."
+    }
+  },
+  {
+    "filename": "114919_jpg.rf.d993568111013b5e95c730d2d50e3ab4.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/114919_jpg.rf.d993568111013b5e95c730d2d50e3ab4.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo on a person's upper arm. The tattoo features a stylized, black snake with a human face, possibly a combination of a snake and a human face. The snake is coiled around a human figure, creating a dynamic and somewhat menacing appearance. The tattoo is prominently displayed on the person's skin, and the background is a plain, neutral color, likely white or light gray, which helps to highlight the tattoo.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"animal.\"",
+      "tattoo_motif_description": "The visible tattoo motif appears to be a stylized snake or reptile with a circular, possibly octopus-like head. The design is intricate and has a dark, inked appearance.",
+      "contains_text": "uncertain",
+      "text_content": "uncertain",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "11533_jpg.rf.ac0dadb3104648ab8202dff1cedf9ab1.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/11533_jpg.rf.ac0dadb3104648ab8202dff1cedf9ab1.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's arm, which is adorned with a tattoo of a cross. The tattoo is simple and stylized, with rays emanating from the cross, giving it a radiant appearance. The person is wearing a white t-shirt with black lettering and camouflage-patterned pants. The background includes a wooden chair and a wall with a textured finish.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The tattoo on the person's arm is a simple symbol, which is a common style for tattoos. It does not appear to be a complex illustration, text-only, or filled/solid. It is not a realistic or shaded tattoo. Therefore, the most appropriate visual style for this tattoo is:\n\nSimple symbol",
+      "tattoo_category": "The main type of tattoo motif on the person's arm is a symbol.",
+      "tattoo_motif_description": "The visible tattoo on the person's arm is a simple, black cross with rays emanating from it.",
+      "contains_text": "uncertain",
+      "text_content": "uncertain",
+      "visual_complexity": "The tattoo on the person's arm is simple.",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "116_1_r2_JPG_jpg.rf.a68f6a52e4b3c407c038082b07c08cc2.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/116_1_r2_JPG_jpg.rf.a68f6a52e4b3c407c038082b07c08cc2.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo on a person's arm. The tattoo features a detailed design that appears to be of a human figure, possibly a man, holding a sword or a similar weapon. The figure is depicted in a dynamic pose, with one arm raised and the other holding the weapon. The background of the tattoo includes intricate details, including what seems to be a helmet or a headpiece, adding to the overall complexity of the design. The tattoo is partially covered by plastic, suggesting that it is still in the process of being tattooed. The person is wearing a white shirt, and the background",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the forearm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as it is described as a tattoo with \"colored\" ink.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"abstract.\"",
+      "tattoo_motif_description": "The tattoo on the arm features a detailed design that includes a human figure holding a sword or a similar weapon. The figure is surrounded by intricate patterns and designs, giving it a complex and artistic appearance.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "118282_jpg.rf.eaf47f84ce749931188201cdf397c677.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/118282_jpg.rf.eaf47f84ce749931188201cdf397c677.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's back with a large tattoo of an angel. The angel is depicted with wings and is surrounded by clouds. The tattoo appears to be detailed and intricate, with shading and texture that gives it a three-dimensional effect. The person is wearing a blue shirt with a striped pattern. In the background, there is a green sign with an arrow pointing to the right, indicating a direction. The date \"2015/11/22\" is also visible on the sign.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "2",
+      "tattoo_location": "The visible tattoo on the back of the person is located on the upper back.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"abstract.\"",
+      "tattoo_motif_description": "The visible tattoo motif on the back of the person is of an angel with wings and a robe. The angel appears to be in a seated position, and the wings are spread out.",
+      "contains_text": "Yes",
+      "text_content": "uncertain",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "1197720849_adc3d46046_jpg.rf.de7105a935983b4ca11113b8ee4b33eb.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/1197720849_adc3d46046_jpg.rf.de7105a935983b4ca11113b8ee4b33eb.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a small tattoo on a person's wrist. The tattoo features a heart-shaped design with a sun or star-like element at the top. Below the heart, the name \"Elliot\" is written in a cursive style. The tattoo is located on the inner part of the wrist, and the background is blurred, focusing attention on the tattoo itself.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the wrist.",
+      "tattoo_size": "small",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is text-only.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"text/lettering.\"",
+      "tattoo_motif_description": "The visible tattoo on the wrist features a heart-shaped design with a small sun or star-like element on top. Below the heart, the name \"Elliot\" is written in a cursive style.",
+      "contains_text": "Yes",
+      "text_content": "Elliot",
+      "visual_complexity": "The tattoo is simple.",
+      "confidence": "Based on the image provided, it is difficult to accurately assess the confidence level in the tattoo assessment. The tattoo appears to be small and simple, and the person's skin tone and tattoo artist's skill level are not visible. However, the tattoo itself is not particularly intricate or detailed, so it is possible that the person is confident in their tattoo assessment."
+    }
+  },
+  {
+    "filename": "119_1_r2_JPG_jpg.rf.5be9f168852293ab082eceb44d8a2582.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/119_1_r2_JPG_jpg.rf.5be9f168852293ab082eceb44d8a2582.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo on a person's arm. The tattoo features a stylized, colorful design that includes a cat face with blue eyes and a red nose, surrounded by intricate patterns and a large, vibrant red rose. The cat face has a serene expression, and the tattoo is detailed with various shades of blue and red, giving it a striking and artistic appearance. The background of the tattoo is a mix of different colors, adding to the overall visual impact.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as the image shows a tattoo with various colors, including blue, red, and green.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"abstract.\"",
+      "tattoo_motif_description": "The tattoo on the arm features a stylized, colorful design that includes a cat face with blue eyes, a red nose, and a pink rose. The cat face is surrounded by intricate patterns and a chain, giving it a unique and artistic appearance.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "11_2_c4_JPG_jpg.rf.f10f02b665f926481389d9e19826dcad.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/11_2_c4_JPG_jpg.rf.f10f02b665f926481389d9e19826dcad.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's arm with a tattoo of an owl. The owl is detailed with green eyes and a black and white color scheme, giving it a realistic appearance. The tattoo also includes a forest scene with trees and possibly a mountain or hill in the background. The person is wearing a green shirt and blue jeans, and the tattoo is located on the calf. The background includes a checkered floor and a black table.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the forearm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is realistic.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"animal.\"",
+      "tattoo_motif_description": "The visible tattoo on the person's leg features an owl with green eyes, set against a backdrop of a forest.",
+      "contains_text": "No",
+      "text_content": "owl",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "11_2_r2_JPG_jpg.rf.245376d4f49f256244cbd81d9e477683.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/11_2_r2_JPG_jpg.rf.245376d4f49f256244cbd81d9e477683.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo of an owl on a person's arm. The owl is detailed with shades of gray and black, giving it a realistic appearance. The tattoo is located on the forearm, and the person is wearing a pair of jeans. The background includes a checkered floor and a portion of a black object, possibly a table or a chair.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the forearm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as the owl's eyes and feathers are depicted in shades of gray and brown, along with some black accents.",
+      "tattoo_style": "The visual style of the tattoo is realistic.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"animal.\"",
+      "tattoo_motif_description": "The tattoo on the person's arm depicts an owl with a detailed and realistic design. The owl's eyes are large and expressive, and its feathers are rendered with intricate patterns. The tattoo is positioned on the forearm, covering a significant portion of the arm.",
+      "contains_text": "No",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "12043_jpg.rf.88942a7807a4af0eb7baed2698e430b0.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/12043_jpg.rf.88942a7807a4af0eb7baed2698e430b0.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's upper arm, which is partially covered by a dark-colored sleeve. On the arm, there is a tattoo of a snake. The snake is depicted in various shades of green and yellow, with its body coiled and its head raised. The tattoo appears to be on the upper arm, as the person's skin is visible. The background includes a wooden door with a metallic doorknob, suggesting that the person is indoors.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the shoulder.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as it is described as a \"colored tattoo.\"",
+      "tattoo_style": "The visual style of the tattoo is shaded.",
+      "tattoo_category": "The main type of tattoo motif on the arm is an abstract design.",
+      "tattoo_motif_description": "The visible tattoo motif on the person's arm appears to be a stylized snake or dragon with a green and yellow color scheme.",
+      "contains_text": "uncertain",
+      "text_content": "uncertain",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "124_1_ar2_JPG_jpg.rf.779345f3423c8fb9d7f39e6f0885bb9a.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/124_1_ar2_JPG_jpg.rf.779345f3423c8fb9d7f39e6f0885bb9a.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo on a person's arm. The tattoo features a pocket watch with a face that includes numbers and hands, set against a background of two large, vibrant roses. The roses are colored in shades of red and purple, and they appear to be the main focal points of the tattoo. The tattoo is located on the forearm, and the background includes a checkered floor and some furniture, suggesting that the tattoo is in a tattoo parlor or a similar setting.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "2",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo contains visible colors.",
+      "tattoo_style": "The visual style of the tattoo is filled/solid.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"plant/flower.\"",
+      "tattoo_motif_description": "The visible tattoo motif on the arm features a pocket watch with a clock face and two large, colorful roses. The roses are in shades of red and purple, and the pocket watch has a black and white color scheme.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "The tattoo is complex.",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "124_1_r4_JPG_jpg.rf.01b967a56a11efcd38d8510951034ffd.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/124_1_r4_JPG_jpg.rf.01b967a56a11efcd38d8510951034ffd.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo on a person's arm. The tattoo features a large, detailed pocket watch with a black and white color scheme. The watch has a round face with numbers and hands, and it appears to be a vintage or classic design. To the right of the watch, there is a large, vibrant purple rose with a detailed petal structure. The background of the tattoo is a light, metallic surface, possibly a table or a mirror. The overall scene suggests a personal and artistic expression.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "2",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as it features a clock and a rose.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"plant/flower.\"",
+      "tattoo_motif_description": "The visible tattoo motif on the arm is a combination of a pocket watch and a rose. The pocket watch has a black and white color scheme, while the rose is in shades of purple.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "The tattoo appears to be complex.",
+      "confidence": "Based on the image, the tattoo appears to be of a pocket watch and a rose. The watch is detailed and the rose is vibrant, suggesting that the tattoo artist has a high level of skill in their work. Therefore, I would estimate that the tattoo assessment is high."
+    }
+  },
+  {
+    "filename": "125_1_a2_jpg.rf.1fffe84567da6230afdb0bcf6764d611.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/125_1_a2_jpg.rf.1fffe84567da6230afdb0bcf6764d611.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's upper arm, which is adorned with a tattoo. The tattoo features a combination of elements: a butterfly in blue and purple, a rose in red, and a face with a serene expression. The face has a blue eye and a closed mouth, giving it a peaceful appearance. The butterfly is positioned above the rose, and the face is surrounded by the rose. The person is wearing a white tank top and black pants. The background appears to be an outdoor setting with a concrete surface and some greenery.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "3",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors.",
+      "tattoo_style": "The tattoo appears to be filled/solid, as the colors are solid and not outlined or shaded.",
+      "tattoo_category": "The main type of tattoo motif on the arm is \"abstract.\"",
+      "tattoo_motif_description": "The visible tattoo on the person's arm features a butterfly and two roses.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "The tattoo on the person's arm is complex.",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "126370_jpg.rf.8a44572054f180ad55751bab645c91ef.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/126370_jpg.rf.8a44572054f180ad55751bab645c91ef.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo on a person's shoulder. The tattoo features a stylized, somewhat abstract design that resembles a face or a mask. The design is intricate and detailed, with shades of black and gray. The tattoo appears to be on the upper part of the shoulder, and the person is partially visible, with the tattooed area being the most prominent feature. The background is not clearly visible, but it seems to be a neutral, possibly indoor setting.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the shoulder.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is uncertain. It appears to be a combination of line art and shading, but the specific details and elements are not clear enough to definitively classify it as one of the options provided.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"animal.\"",
+      "tattoo_motif_description": "The visible tattoo on the shoulder appears to be a stylized, possibly abstract design. It features a combination of dark and light shades, creating a sense of depth and dimension. The design is intricate and somewhat complex, with various shapes and lines interwoven together.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "Based on the image, the tattoo appears to be a realistic depiction of a cat's face, possibly a lion or a tiger. The style and shading suggest it is a high-quality tattoo. Therefore, I would choose the option of high confidence in your tattoo assessment."
+    }
+  },
+  {
+    "filename": "128_1_a1_JPG_jpg.rf.f0b23b47bd2e65731fbaa3560d0cff99.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/128_1_a1_JPG_jpg.rf.f0b23b47bd2e65731fbaa3560d0cff99.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image depicts a tattoo on a person's upper arm. The tattoo features a detailed black rose with intricate details, including petals and leaves. The rose is surrounded by a dark, textured border that gives it a three-dimensional appearance. The background of the tattoo is a lighter shade, possibly white or light gray, which contrasts with the dark rose and adds depth to the design. The overall style of the tattoo is realistic and detailed, with a focus on the rose's form and texture.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the shoulder.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is shaded.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"plant/flower.\"",
+      "tattoo_motif_description": "The tattoo on the person's arm features a black rose with intricate details, including petals and leaves. The rose is surrounded by a dark, textured border that gives it a three-dimensional appearance. The overall design is bold and dramatic, with a strong contrast between the black ink and the lighter skin tone of the person's arm.",
+      "contains_text": "No",
+      "text_content": "none",
+      "visual_complexity": "The tattoo is complex.",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "1298913018_636d2e95a2_jpg.rf.aa57b49a4b8be9ce0d9bf4aacd661a00.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/1298913018_636d2e95a2_jpg.rf.aa57b49a4b8be9ce0d9bf4aacd661a00.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image depicts a tattoo of a colorful fish, specifically a koi fish, on a person's arm. The fish is depicted in a dynamic pose, with its body angled towards the viewer, and its tail and fins flowing in the air. The background of the tattoo features swirling patterns in shades of blue and black, adding to the overall aesthetic. The tattoo is detailed and vibrant, capturing the essence of a koi fish with its characteristic orange and yellow scales.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the shoulder.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors.",
+      "tattoo_style": "The visual style of the tattoo is filled/solid.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"animal.\"",
+      "tattoo_motif_description": "The visible tattoo motif is a colorful koi fish with a blue background and swirling patterns around it.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "12_2_r2_JPG_jpg.rf.aec3ce5907dcaaf336166a8086175eaf.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/12_2_r2_JPG_jpg.rf.aec3ce5907dcaaf336166a8086175eaf.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's arm with a tattoo. The tattoo features a woman's face with long hair, surrounded by pink flowers. The arm is partially covered by a blue sleeve, and the background includes a black chair and some paper or plastic bags. The person is wearing a blue top and jeans.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "2",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as the flowers are pink and the background is a mix of colors.",
+      "tattoo_style": "The visual style of the tattoo appears to be filled/solid. The tattoo features solid colors and outlines, which are typical of filled/solid styles.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"person/face.\"",
+      "tattoo_motif_description": "The visible tattoo motif on the arm is of a woman's face with flowers around it.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "130_1_JPG_jpg.rf.b80b6de654a25a15d326a06e609d3d6d.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/130_1_JPG_jpg.rf.b80b6de654a25a15d326a06e609d3d6d.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo of a rose on someone's arm. The rose is depicted with vibrant colors, including shades of pink, purple, and green, giving it a three-dimensional appearance. The tattoo is detailed and appears to be well-pained, as indicated by the visible tattooing process on the skin. The background of the image is blurred, focusing attention on the tattooed rose.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors.",
+      "tattoo_style": "The visual style of the tattoo is shaded.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"plant/flower.\"",
+      "tattoo_motif_description": "The visible tattoo motif is a colorful, detailed rose.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "130_1_a4_JPG_jpg.rf.1da46bc72767978d72c223542580bba9.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/130_1_a4_JPG_jpg.rf.1da46bc72767978d72c223542580bba9.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo of a rose on someone's arm. The rose is depicted with vibrant colors, including shades of pink, purple, and green, creating a detailed and realistic appearance. The tattoo is located on the forearm, and the background appears to be a teal or turquoise color. The tattoo artist has used a variety of techniques to create the intricate details of the rose petals and the center of the flower.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors.",
+      "tattoo_style": "The visual style of the tattoo is shaded.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"plant/flower.\"",
+      "tattoo_motif_description": "The visible tattoo motif is a colorful rose.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "130_1_c1_JPG_jpg.rf.ccc3f83be20f40626b0220f31e859646.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/130_1_c1_JPG_jpg.rf.ccc3f83be20f40626b0220f31e859646.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo of a rose on someone's leg. The rose is depicted with a realistic style, featuring detailed petals and a central stem. The colors used in the tattoo are vibrant, with shades of red, orange, and purple, giving it a three-dimensional appearance. The background of the tattoo is a gradient of blue and green, adding depth and contrast to the rose. The tattoo appears to be on a person's leg, as indicated by the visible skin and the tattoo's placement.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the leg.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors.",
+      "tattoo_style": "The visual style of the tattoo is shaded.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"plant/flower.\"",
+      "tattoo_motif_description": "The visible tattoo motif is a colorful rose with a detailed stem and leaves.",
+      "contains_text": "uncertain",
+      "text_content": "uncertain",
+      "visual_complexity": "The tattoo is complex.",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "131_1_i2_jpg.rf.c7d4c9836ab65701cdef24eab2a81369.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/131_1_i2_jpg.rf.c7d4c9836ab65701cdef24eab2a81369.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo on a person's upper arm. The tattoo features two butterflies and a rose. The butterflies are depicted with detailed wings and are positioned above the rose. The background of the tattoo is a gradient of blue and pink, giving it a three-dimensional effect. The rose is rendered with a realistic style, with detailed petals and a subtle shadow beneath it.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "2",
+      "tattoo_location": "The tattoo is located on the back.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as the butterfly and rose are depicted in various shades of pink, blue, and white.",
+      "tattoo_style": "The visual style of the tattoo is realistic.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"plant/flower.\"",
+      "tattoo_motif_description": "The visible tattoo motif features a butterfly perched on a pink rose.",
+      "contains_text": "No",
+      "text_content": "none",
+      "visual_complexity": "The tattoo is complex.",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "132_1_c3_JPG_jpg.rf.fee2d7576207fbd25b035ef8d61f58f9.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/132_1_c3_JPG_jpg.rf.fee2d7576207fbd25b035ef8d61f58f9.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's arm with a tattoo. The tattoo features a rose with a banner that reads \"I LOVE ART.\" The background of the tattoo is a mix of pink and purple hues, giving it a vibrant and artistic appearance. The person is wearing a black and white striped shirt and green jeans. The scene appears to be indoors, possibly in a room with a bed and some furniture in the background.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as the rose and anchor are depicted in various shades of pink, purple, and black.",
+      "tattoo_style": "The visual style of the tattoo is filled/solid.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"plant/flower.\"",
+      "tattoo_motif_description": "The visible tattoo motif on the person's arm is an anchor with the words \"I LOVE ART\" written on it.",
+      "contains_text": "yes",
+      "text_content": "I LOVE ART",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "132_1_r3_JPG_jpg.rf.ab8298737d93d0d852abae7c75d68a13.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/132_1_r3_JPG_jpg.rf.ab8298737d93d0d852abae7c75d68a13.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo on a person's arm. The tattoo features a rose with a banner that reads \"I LOVE ART.\" The rose is detailed with intricate petals and a stem, and the banner is attached to the rose with a chain. The background of the tattoo includes a black and white striped pattern. The person is wearing a black and white striped shirt.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as it is described as a \"colored tattoo.\"",
+      "tattoo_style": "The visual style of the tattoo is filled/solid.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"plant/flower.\"",
+      "tattoo_motif_description": "The visible tattoo on the arm features a rose with a banner that says \"I LOVE ART.\"",
+      "contains_text": "Yes",
+      "text_content": "I LOVE ART",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "133_jpg.rf.11e270950ec0e3f07a06c9f996422f03.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/133_jpg.rf.11e270950ec0e3f07a06c9f996422f03.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's arm, specifically the upper arm and forearm. The visible part of the arm features a tattoo that appears to be intricate and detailed. The tattoo includes various symbols and designs, possibly representing a complex or symbolic meaning. The person is wearing dark clothing, and the background includes a door and some tiled flooring.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "2",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo appears to be complex illustration. The intricate designs and the way the ink is applied suggest a detailed and artistic approach to the tattoo.",
+      "tattoo_category": "The main type of tattoo motif on the arm is geometric.",
+      "tattoo_motif_description": "The visible tattoo motif on the person's arm appears to be a complex design that includes a central figure, possibly a person, surrounded by various intricate patterns and designs. The design is detailed and appears to be a piece of art or a piece of a tattoo.",
+      "contains_text": "uncertain",
+      "text_content": "uncertain",
+      "visual_complexity": "complex",
+      "confidence": "medium"
+    }
+  },
+  {
+    "filename": "135_1_a4_JPG_jpg.rf.637d63c6e36f9821bf48524eeefdc3ab.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/135_1_a4_JPG_jpg.rf.637d63c6e36f9821bf48524eeefdc3ab.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a tattoo of a red rose on a person's arm. The rose is detailed with petals and leaves, and the tattoo appears to be freshly inked, as indicated by the slight sheen on the skin. The background is a plain, dark surface, possibly a table or a wall, which contrasts with the vibrant color of the tattoo.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "1",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to contain visible colors, as the rose is depicted in shades of red and black.",
+      "tattoo_style": "The visual style of the tattoo is realistic.",
+      "tattoo_category": "The main type of tattoo motif in the image is \"plant/flower.\"",
+      "tattoo_motif_description": "The visible tattoo motif is a red rose with green leaves.",
+      "contains_text": "uncertain",
+      "text_content": "none",
+      "visual_complexity": "The tattoo is described as \"complex,\" indicating that it is intricate and detailed.",
+      "confidence": "high"
+    }
+  },
+  {
+    "filename": "137572_jpg.rf.8a7c342eede52b469dcc0fb719b0ea89.jpg",
+    "image_path": "/content/drive/MyDrive/Tattoo-YOLO/test/images/137572_jpg.rf.8a7c342eede52b469dcc0fb719b0ea89.jpg",
+    "model": "qwen2_vl_2b",
+    "raw_answers": {
+      "scene_description": "The image shows a person's arm with a tattoo of a cobra. The cobra is depicted with a crown on its head, and the tattoo is detailed and realistic. The person is wearing blue jeans and a black belt. The background includes a yellow wall and a white object, possibly a wall socket or a light switch, on the right side of the image.",
+      "has_tattoo": "Yes.",
+      "tattoo_count": "2",
+      "tattoo_location": "The tattoo is located on the arm.",
+      "tattoo_size": "Large",
+      "tattoo_color": "The tattoo appears to be black and gray only.",
+      "tattoo_style": "The visual style of the tattoo is complex illustration.",
+      "tattoo_category": "The main type of tattoo motif in the image is an animal.",
+      "tattoo_motif_description": "The visible tattoo motif on the person's arm is a cobra with a crown on its head.",
+      "contains_text": "uncertain",
+      "text_content": "uncertain",
+      "visual_complexity": "complex",
+      "confidence": "high"
+    }
+  }
+]

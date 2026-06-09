@@ -1,0 +1,5 @@
+field,positive_label,negative_label,TP,TN,FP,FN
+has_tattoo,yes,no,441,0,0,1
+tattoo_color,colored,black_and_gray,85,312,8,37
+contains_text,yes,no,100,299,25,18
+tattoo_count,multiple,single,29,358,5,50
