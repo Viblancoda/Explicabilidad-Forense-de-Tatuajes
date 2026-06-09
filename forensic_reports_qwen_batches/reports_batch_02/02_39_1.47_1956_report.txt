@@ -1,0 +1,14 @@
+### Observed Description
+The tattoo is a large, complex design located at the bottom center of the visible skin region. The tattoo appears to be filled with intricate details, suggesting a high level of complexity and detail. The overall shape is irregular but maintains a compact and solid outline. The tattoo contrasts sharply with the surrounding skin, making it highly visible.
+
+### Feature-Based Interpretation
+The tattoo is a large, complex design occupying a significant portion of the visible skin area. The overall shape is irregular but maintains a compact and solid outline. The tattoo appears to be filled with intricate details, indicating a high level of complexity and detail. The contrast between the tattoo and the surrounding skin is very high, making the tattoo highly visible. The geometric proportions suggest a balanced width and height, contributing to the overall stability and clarity of the design.
+
+### Visual Assessment
+The tattoo exhibits a high level of detail and complexity, with intricate patterns filling the space. The contrast between the tattoo and the surrounding skin is very high, making the tattoo highly visible. The overall shape is irregular but maintains a compact and solid outline, contributing to the stability and clarity of the design. The geometric proportions suggest a balanced width and height, further enhancing the clarity and visibility of the tattoo.
+
+### Forensic Relevance
+The tattoo's large size and detailed, complex design make it a notable feature within the visible skin area. The high contrast and intricate patterns contribute to its visibility and uniqueness. While the tattoo may not be a unique identifier by itself, its presence can serve as a soft biometric cue for forensic comparison, especially when combined with other visible features.
+
+### Limitations and Uncertainty
+The tattoo's observed characteristics are based solely on the visible crop and extracted features. Anatomical body location cannot be reliably inferred, and semantic meaning or personal significance cannot be reliably determined. Image quality, crop limitations, and visibility may affect the interpretation of the tattoo's features.

@@ -1,0 +1,2 @@
+### [Observed Description]
+          No visible tattoo region was detected in the provided image crop.

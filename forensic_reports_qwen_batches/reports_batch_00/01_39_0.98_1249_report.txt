@@ -1,0 +1,14 @@
+### Observed Description
+The tattoo appears to depict a landscape scene with a prominent mountain range in the background. The composition includes a large body of water in the foreground, possibly a lake or river, with a rocky shore. The overall visual organization suggests a natural, serene setting. The tattoo is located at the bottom center of the visible skin region, occupying a moderate portion of the area. The tattoo has a line-based appearance, with distinct outlines defining the various elements of the landscape.
+
+### Feature-Based Interpretation
+The tattoo is medium-sized relative to the full image, occupying a moderate portion of the visible skin region. Its relative spatial position corresponds to the bottom-center region of the original image. The overall geometric proportion is approximately balanced in width and height, indicating a relatively symmetrical design. The external contour appears moderately irregular, suggesting a naturalistic representation rather than a highly stylized or geometric pattern. The global geometry is not strongly elongated, maintaining a balanced composition. The tattoo shows strong contrast against the surrounding skin, with moderate tonal variation, indicating a high level of detail and clarity.
+
+### Visual Assessment
+The tattoo exhibits a line-based appearance with distinct outlines defining the various elements of the landscape. The composition is naturalistic, with a large body of water in the foreground and a mountain range in the background. The shading behavior is subtle, with smooth transitions between different elements of the landscape. The overall visual complexity is moderate, with clear delineation of the main features but no excessive detail or fragmentation.
+
+### Forensic Relevance
+The tattoo contributes to forensic comparison as a soft biometric cue due to its distinct composition, clear delineation of elements, and moderate visual complexity. The naturalistic representation and identifiable landscape features can serve as a unique identifier, although the tattoo's specific details and composition may vary slightly among individuals.
+
+### Limitations and Uncertainty
+Conclusions are based solely on the visible crop and extracted features. Anatomical body location cannot be reliably inferred, and semantic meaning or personal significance cannot be determined. Image quality, crop limitations, and visibility may affect the interpretation of the tattoo's details and composition.

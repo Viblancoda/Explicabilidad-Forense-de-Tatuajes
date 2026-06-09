@@ -1,0 +1,14 @@
+### Observed Description
+The tattoo depicts an abstract design with a prominent, wavy, red-orange line running vertically through the center. This line is surrounded by smaller, circular shapes in shades of yellow and orange. The overall composition is asymmetrical, with the central line being the most dominant feature. The tattoo appears to be filled with solid colors rather than shaded or outlined. The relative position of the tattoo is centered towards the right side of the visible skin area.
+
+### Feature-Based Interpretation
+The tattoo is medium-sized and occupies a moderate portion of the visible skin region. Its overall geometric proportion is predominantly vertical, taller than wide. The external contour appears irregular and non-circular, with some irregularity in the overall structure. The global geometry is strongly elongated, with the central line being the most prominent feature. The tattoo shows strong contrast against the surrounding skin, with low detected edge density. The image region displays moderate tonal variation, with the central line and surrounding shapes standing out due to their distinct colors.
+
+### Visual Assessment
+The tattoo exhibits a filled appearance with solid colors, lacking any noticeable shading or outlining. The composition is asymmetrical, with the central line being the most dominant feature. The tonal variation is moderate, with the central line and surrounding shapes standing out due to their distinct colors. The overall visual complexity is moderate, with the central line and surrounding shapes forming a coherent yet abstract design.
+
+### Forensic Relevance
+The tattoo's medium size and asymmetrical composition make it a notable feature within the visible skin area. The central line and surrounding shapes provide a unique visual arrangement that can serve as a soft biometric cue for forensic comparison. However, the lack of shading or outlining limits its potential as a highly distinctive identifier.
+
+### Limitations and Uncertainty
+Conclusions are based solely on the visible crop and extracted features. Anatomical body location cannot be reliably inferred, nor can semantic meaning or personal significance be determined. Image quality, crop limitations, and visibility may affect the interpretation of the tattoo's characteristics.
