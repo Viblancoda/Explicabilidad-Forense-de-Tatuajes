@@ -110,7 +110,7 @@ Por este motivo, los notebooks se proporcionan únicamente como referencia del p
 
 ## Memoria
 
-El documento `Memoria.pdf` contiene la descripción completa del trabajo realizado, incluyendo:
+El documento `EII-GCID-2026-06BlancoDavila_V` contiene la descripción completa del trabajo realizado, incluyendo:
 
 * Objetivos.
 * Metodología.
